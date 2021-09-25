@@ -1,0 +1,21 @@
+.DS_Store
+node_modules
+dist
+coverage
+storybook-static
+docker/**/data
+packages/vuerd-vscode/out
+packages/vuerd/out**
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
